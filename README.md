@@ -8,9 +8,9 @@ I share the values of Free and Open-Source Software. I will share the majority o
 except my *heart project* that I will work on with all my *heart* to make this project **done**.
 
 The first project that I will release is a small 2d game called *just throw it* under the **just1a-play *project***.
-
+Soon : my personnal website
 ```c
-printf("Thank you all");
+printf("Thank you all\n");
 joy++;
 ```
 

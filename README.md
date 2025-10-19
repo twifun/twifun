@@ -13,8 +13,6 @@ Soon : my personnal website
 printf("Thank you all\n");
 joy++;
 ```
-
-*wanna help ? : [my patreon](https://www.patreon.com/twifun)*
 <!--
 **twifun/twifun** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
